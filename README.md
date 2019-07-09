@@ -1,4 +1,4 @@
-# CppNd-Traffic-Simulation
+# CppNd-Traffic-Simulation-L2
 
 ## Summary
   <img src="data/traffic-simulation-L2.gif"/>
